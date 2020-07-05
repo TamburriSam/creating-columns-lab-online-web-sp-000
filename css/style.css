@@ -67,7 +67,3 @@ float: right;
   height:100%
 
 }
-
-*, *:before, *:after {
-  box-sizing: border-box;
-}
