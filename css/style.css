@@ -60,6 +60,7 @@ img:hover {
 width:60%;
 height:70%;
 float: right;
+vertical-align: left;
 }
 
 .large{
