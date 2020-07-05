@@ -46,27 +46,22 @@ img:hover {
   background-color: #dd4444;
 }
 
-
-.column{
-  width:30%;
-  display:inline-block;
+.column {
+  width: 30%;
+  display: inline-block;
 }
 
-
-.small{
-  width:100%;
-  height:100%;
+.small {
+  height: 100%;
+  width: 100%;
 }
 
 .med {
-width:60%;
-height:70%;
-vertical-align: top;
-float:right;
+  height: 201.5%;
+  width: 201.5%;
 }
 
-.large{
-  width:90%;
-  height:100%
-
+.large {
+  height: 303%;
+  width: 303%;
 }
