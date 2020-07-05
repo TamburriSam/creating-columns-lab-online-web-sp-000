@@ -54,7 +54,7 @@ img:hover {
 .small{
   width:10%;
   height:10%;
-  position: relative;
+  position: absolute;
 }
 
 .med {
